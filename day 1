@@ -1,0 +1,28 @@
+1. whats ur understanding of blockchain?
+ ans = blockchain is like total data is decrypted which cant be easily accessed.
+
+ 2.  What is the core problem blockchain is trying to solve?
+ans = no use of 3rd party services, the security is more so thats the transactions cant be easily identified
+
+ 3. what are the few features which blockchain will give u?
+ans = 1. Verifiable
+2. Unchangeable
+3. Tamper proof
+4. Immutable
+5. Decentralized
+
+What are all the things the block contains?
+1. Block number.
+2. Records.
+3. Previous block signature.
+4. Current Block signature
+5. Mining Key
+
+5. How is the verifiability of Blockchain is been attained ?
+The Blockchain can be verifiability by the data or the key which are stored in the distributed systems.
+formula:-
+Current Block Signature = Previous Block Signature + Data in the Block
+ex: BlockData = Fingerprint1
+Data1 + previous fingerprint1 = Fingerprint2
+Data2 + previous fingerprint2 = Fingerprint3 and
+data 3 + previous fingerprint3 = fingerprint 4
